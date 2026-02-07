@@ -1,0 +1,11 @@
+moderngl==5.8.2
+moderngl-window==2.4.4
+numpy==1.24.3
+pyrr==0.10.3
+Pillow>=9.0.0,<10.0.0
+sounddevice==0.4.6
+scipy==1.11.1
+librosa==0.10.1
+numba==0.57.1
+pydub==0.25.1
+pygltflib==1.16.0
